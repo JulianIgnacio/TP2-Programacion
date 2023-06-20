@@ -38,7 +38,7 @@ namespace Ejercicio4
         static void Mostrar(int[,] matriz)
         {
             Console.Write("\n");
-            Console.WriteLine("Los datos cargados en la matriz son:");
+            Console.WriteLine("La matriz resultado de la suma es:");
             for (int i = 0; i < matriz.GetLength(0); i++)
             {
                 for(int j = 0; j < matriz.GetLength(1); j++)
