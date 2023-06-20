@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\monte\Documents\Tecnicatura\TP-2-Programacion\Ejercicio4\obj\Debug\Ejercicio4.pdb
